@@ -1,0 +1,3 @@
+GET localhost:8080/design
+Accept: application/json
+Content-Type: application/json
